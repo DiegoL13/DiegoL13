@@ -1,6 +1,6 @@
 ## Olá! meu nome é Diego Luiz
 <p>
-  Estudo programação desde 2024, as linguagens que mais utilizo são Python, Java e SQL. Tenho base de lógica de programação e estou cada vez mais me aperfeiçoando na Programação Orientada a Objetos, meu objetivo é trabalhar na área de dados.
+  Estudo programação desde 2024 e estou cursando Análise e Desenvolvimento de Sistemas na FICR, as linguagens que mais utilizo são Python, Java e SQL. Tenho base de lógica de programação e estou cada vez mais me aperfeiçoando na Programação Orientada a Objetos, meu objetivo é trabalhar na área de dados.
 </p>
 
 <div align="center">
