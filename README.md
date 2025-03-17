@@ -1,6 +1,6 @@
 ## Olá! meu nome é Diego Luiz
 <p>
-  Estudo programação desde 2024 e estou cursando Análise e Desenvolvimento de Sistemas na FICR, as linguagens que mais utilizo são Python, Java e SQL. Tenho base de lógica de programação e estou cada vez mais me aperfeiçoando na Programação Orientada a Objetos, meu objetivo é trabalhar na área de dados.
+  Estudo programação desde 2024 e estou cursando Análise e Desenvolvimento de Sistemas na FICR, as linguagens que mais utilizo são Python, Java, C e SQL. Tenho base de lógica de programação e estou cada vez mais me aperfeiçoando na Programação Orientada a Objetos, meu objetivo é trabalhar na área de dados.
 </p>
 
 <div align="center">
@@ -13,9 +13,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="skill-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="skill-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="skill-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="skill-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="skill-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="skill-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="skill-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
 
