@@ -1,4 +1,7 @@
-## Olá! Sou Diego Luiz, Desenvolvedor
+## Olá! meu nome é Diego Luiz
+<p>
+  Estudo programação desde 2024, as linguagens que mais utilizo são Python, Java e SQL. Tenho base de lógica de programação e estou cada vez mais me aperfeiçoando na Programação Orientada a Objetos, meu objetivo é trabalhar na área de dados.
+</p>
 
 <div align="center">
   <a href="https://github.com/DiegoL13">
