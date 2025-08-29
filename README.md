@@ -2,13 +2,16 @@
 <p>
   Estudo programação desde 2024 e estou cursando Análise e Desenvolvimento de Sistemas na FICR, as linguagens que mais utilizo são Python, Java, C e SQL. Tenho base de lógica de programação e estou cada vez mais me aperfeiçoando na Programação Orientada a Objetos, meu objetivo é trabalhar na área de dados.
 </p>
-
 <div align="center">
-  <a href="https://github.com/DiegoL13">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DiegoL13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DiegoL13&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoL13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
+ <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoL13&theme=nightowl&show_icons=true&hide_border=true&layout=compact"
+    height="155" width="40%"  alt="Top Languages"
+  />
+ </div>
+    
+ 
+    
 ## Principais Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="skill-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
